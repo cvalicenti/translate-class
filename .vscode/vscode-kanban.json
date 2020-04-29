@@ -1,0 +1,81 @@
+{
+  "done": [],
+  "in-progress": [],
+  "testing": [],
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "proto"
+      },
+      "creation_time": "2020-04-29T19:34:11.357Z",
+      "description": {
+        "content": "Agrgarle control de exceptions para \n\n1. falta de conexion al servidor \n\netc",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "prio": 4,
+      "references": [],
+      "title": "Manejo Exceptions"
+    },
+    {
+      "assignedTo": {
+        "name": "proto"
+      },
+      "category": "Prublicar",
+      "creation_time": "2020-04-29T19:36:42.992Z",
+      "description": {
+        "content": "Deployar en el repositorio ",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "prio": 3,
+      "references": [],
+      "title": "Hacer el repositorio git"
+    },
+    {
+      "assignedTo": {
+        "name": "proto"
+      },
+      "category": "Prublicar",
+      "creation_time": "2020-04-29T19:39:08.310Z",
+      "description": {
+        "content": "Armar el Readme.md para documentar el API",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 2,
+      "references": [],
+      "title": "Documentar"
+    },
+    {
+      "assignedTo": {
+        "name": "proto"
+      },
+      "category": "Tests",
+      "creation_time": "2020-04-29T19:35:52.698Z",
+      "description": {
+        "content": "Hacer test unitarios ",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "prio": 2,
+      "references": [],
+      "title": "Hacer test unitarios"
+    },
+    {
+      "assignedTo": {
+        "name": "proto"
+      },
+      "category": "Test",
+      "creation_time": "2020-04-29T19:41:18.082Z",
+      "description": {
+        "content": "Test e2e\n\nprobar que corra \nprobar que si no hay conexion genere exception \n\netc",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "prio": 2,
+      "references": [],
+      "title": "Test e2e"
+    }
+  ]
+}
